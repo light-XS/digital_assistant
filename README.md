@@ -1,7 +1,7 @@
 firstly say (light)
 
-to ask about o'clock say (what time is it)
-to ask about date say (give me the date)
+to ask about o'clock say (what time is it)\n
+to ask about date say (give me the date)/n
 to open facebook say (facebook)
 to open youtube say (youtube)
 to open google say (google):
